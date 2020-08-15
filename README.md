@@ -2,7 +2,7 @@
 
 ## Tasks
 
-Task 1: Chatbot Template < \br>
+Task 1: Chatbot Template < /br>
 Task 2: Natural Language Understanding
 Task 3: Domain and Stories
 Task 4: Starting the Time Zone Bot
